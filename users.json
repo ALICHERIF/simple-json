@@ -1,0 +1,10 @@
+{"email":"joe@example.com","name":"joe","permissions":null}
+{"email":"fill@example.com","name":"fill","permissions":null}
+{"email":"fill@example.com","name":"fill","permissions":null}
+{"email":"fill@example.com","name":"fill","permissions":null}
+{"email":"fill@example.com","name":"fill","permissions":null}
+{"email":"fill@example.com","name":"fill","permissions":null}
+{:self_json=>nil, :permissions=>nil}
+{:self_json=>nil, :permissions=>nil}
+{"email":"joe@example.com","name":"joe","permissions":null}
+{"email":"joe@example.com","name":"joe","permissions":{"accounts":"read","policies":"write","users":"write"}}
